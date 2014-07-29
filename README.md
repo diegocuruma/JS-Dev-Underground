@@ -1,12 +1,12 @@
 Atividade JS Iniciantes
 =========================
 
-Objetivo ter um espaço para colocar as atividades js usuais no dia-a-dia de um front-end, e para servi de estudos.
+Objetivo ter um espaço para colocar as atividades js, que usamos no dia-a-dia e para servi de estudos.
 
 Início
 ------
 
-A ideia é colocar uma problema para ser resolvido tentando simular o que passamos no nosso dia-a-dia.
+A ideia é colocar um problema para ser resolvido tentando simular a nossa realidade.
 a principio criar coisa simples. 
 
 - Slide
