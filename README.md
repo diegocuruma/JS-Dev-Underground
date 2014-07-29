@@ -15,8 +15,8 @@ a principio criar coisa simples.
  - Criação de projetos
  - etc
  
- como irá funcionar?
- -----------------
+Como irá funcionar?
+-------------------
  
- Será criado uma pasta com o nome da ativade e será colocado as referências e links 
- para pesquisa do exercício, Lá será colocado os exercicios resolvidos por quem colaborar.
+Será criado uma pasta com o nome da ativade e será colocado as referências e links 
+para pesquisa do exercício, Lá será colocado os exercicios resolvidos por quem colaborar.
