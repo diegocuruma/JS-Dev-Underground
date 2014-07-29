@@ -1,16 +1,9 @@
-Teoria
+Atividades
 =========================
 
-Aqui serão postados links de referência tudo que você precisa saber antes de codificar.
+Espaço para atividades.
 
-Artigos
--------
-
-Palestras
----------
-
-Slides
-------
-
-Blogs
------
+Ferramentas
+-----------
+- http://jsfiddle.net/
+- http://www.jshint.com/

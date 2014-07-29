@@ -19,7 +19,7 @@ Como irá funcionar?
 -------------------
  
 Dentra da pasta "Teoria" estão todos os links de referência para estudos separados por 
-categorias como Artigos, Palestras, Slides e Blogs.
+categorias como Artigos, Palestras, Slides, Blogs e Cursos Online.
 
-Na pasta Atividades serão postados as atividades e os exercícios resolvidos e também algumas referências 
+Na pasta "Atividades" serão postados as atividades e os exercícios resolvidos e também algumas referências 
 de ferramentas online para desenvolvimento.
