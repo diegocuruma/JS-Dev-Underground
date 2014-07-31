@@ -1,4 +1,4 @@
-Ordernando Conteúdo
+Ordernando Conteúdo (Array) com JS
 ===================
 Parágrafo
 ---------
@@ -43,7 +43,7 @@ Código
 	content = content.split(" ");
 	content.sort();
 	names.innerHTML = "";
-	for(var i = 0; i<content.length; i++){
+	for(var i = 0; i < content.length; i++){
 	    names.innerHTML += content[i]+"<br />";
 	}
 ```
